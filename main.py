@@ -4,7 +4,7 @@ secret_number = random.randint(1, 100)
 attempts = 0
 
 print("================================")
-print("       NUMBER GUESSING GAME")
+print("     NUMBER GUESSING GAME")
 print("================================")
 print()
 print("Picking a number between 1 and 100.")
